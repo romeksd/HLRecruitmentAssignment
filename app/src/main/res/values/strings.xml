@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HL Recruitment Assignment</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="show_next_screen">Show next screen</string>
+    <string name="validate">Validate</string>
+    <string name="enter_valid_decimal_number">Enter valid decimal number</string>
+    <string name="entered_value">Entered value: %s</string>
+    <string name="error_message">Text cannot be converted to decimal number</string>
+</resources>
